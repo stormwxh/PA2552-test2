@@ -5,11 +5,11 @@ public class Animal {
 	 public String name;
 	 static int i=1; 
 	 public  void eat(){
-		System.out.println("会吃东西！");
+		System.out.println("禄谩鲁脭露芦脦梅拢隆");
 	}
 	 
 	 public Animal(){
-		 System.out.println("Animal类执行了");
+		 System.out.println("Animal脌脿脰麓脨脨脕脣");
 		 //age=20;
 		 name="hasaki";
 	 }
@@ -19,5 +19,5 @@ public class Animal {
 		return "Animal [age=" + age + ", name=" + name + "]";
 	}
 	 
-
+//this is a test
 }
