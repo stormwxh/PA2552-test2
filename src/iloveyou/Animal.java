@@ -19,5 +19,4 @@ public class Animal {
 		return "Animal [age=" + age + ", name=" + name + "]";
 	}
 	 
-//this is a test
 }
